@@ -1,0 +1,5 @@
+# SDK oficial da API Google Gemini
+google-genai>=2.31.0
+
+# Biblioteca para integração com Telegram Bot API
+pyTelegramBotAPI>=4.37.0

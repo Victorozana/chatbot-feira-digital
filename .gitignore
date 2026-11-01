@@ -1,0 +1,32 @@
+# Ambientes virtuais
+venv/
+.venv/
+env/
+ENV/
+
+# Arquivos de ambiente e credenciais
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+
+# Python cache e compilados
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Testes e cobertura
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDEs e editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
